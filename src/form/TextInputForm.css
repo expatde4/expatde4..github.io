@@ -1,0 +1,25 @@
+/* TextInputForm.css */
+label {
+    display: inline-block;
+    width: 150px; /* Adjust the width as needed */
+    text-align: center;
+    margin-right: 10px; /* Adjust the margin as needed */
+    
+    color: rgb(0, 0, 0);
+    display: block;
+    margin-bottom: 1rem;
+     margin-right: 10px;
+   }
+
+button {
+    margin-top: 1rem; /* Adjust the value as needed */
+   }
+
+
+input {
+    margin-top: 15px;
+    background-color: white;
+    border: 1px solid black;
+    color: black; /* Ensures the text color is black */
+    padding: 10px; /* Adjust the value as needed */
+   }
