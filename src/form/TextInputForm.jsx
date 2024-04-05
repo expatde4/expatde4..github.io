@@ -76,7 +76,7 @@ function TextInputForm() {
       </label>
       <br />
       <label>
-        Apartment:
+        Apartment :
         <input type="checkbox" name="apartment" checked={checkboxes.apartment} onChange={handleInputChange} />
       </label>
       <br />
